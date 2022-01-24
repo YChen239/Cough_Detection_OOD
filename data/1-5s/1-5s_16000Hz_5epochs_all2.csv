@@ -1,0 +1,9 @@
+Discriminator Loss,0.0476
+Discriminator Stats
+Sensitivity/Recall,0.989
+Specificity,0.978
+Accuracy,0.982
+Balanced accuracy,0.983
+Matthews correlation coefficient,0.964
+Precision/PPV,0.969
+NPV,0.992
